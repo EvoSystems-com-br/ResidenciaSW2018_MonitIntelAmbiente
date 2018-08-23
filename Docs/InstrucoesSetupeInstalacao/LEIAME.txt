@@ -1,1 +1,1 @@
-Pasta para adicionar o documentos que ilustra os passos a serem seguidos para o set up do projeto
+Pasta para adicionar o documento que ilustra os passos a serem seguidos para o setup do projeto no ambiente de desenvolvimento e as o setup para instalação do sistema.
