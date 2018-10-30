@@ -1,0 +1,9 @@
+Pillow
+django
+pandas
+numpy
+torch==0.4
+opencv-python==3.4.0.12
+paho-mqtt
+image
+requests
